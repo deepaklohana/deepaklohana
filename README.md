@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepaklohana" alt="deepaklohana" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [deepakkumar-nine.vercel.app](deepakkumar-nine.vercel.app)
+- 👨‍💻 All of my projects are available at [eepaklohana41.vercel.app](eepaklohana41.vercel.app)
 
 - 📫 How to reach me **deepaklohana41@gmail.com**
 
